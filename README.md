@@ -43,3 +43,13 @@ An example of how you present a Terms of Service (or any other message) when a n
 - **Language**: Javascript
 - **Features used**: Events API, Interactive Messages
 - **URL**: [https://github.com/slackapi/template-terms-of-service](https://github.com/slackapi/template-terms-of-service)
+
+---
+
+### [Message linking](https://github.com/slackapi/template-message-linking)
+
+An example of how you can automatically bridge Slack threads talking about the same issue. It makes it easier to follow discussions that might span teams, departments, locations etc.
+
+- **Language**: Javascript
+- **Features used**: Events API
+- **URL**: [https://github.com/slackapi/template-message-linking](https://github.com/slackapi/template-message-linking)
