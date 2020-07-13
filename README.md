@@ -6,6 +6,26 @@ A workflow sample joins multiple features together to demonstrate a single end t
 
 ---
 
+### [Definition App](https://github.com/slackapi/definition-app)
+
+An app for storing and accessing company specific phrases
+
+- **Language**: Typescript
+- **Features used**: Shortcuts, Modals, Block actions
+- **URL**: [https://github.com/slackapi/definition-app](https://github.com/slackapi/definition-app)
+
+---
+
+### [Triage Bot and Channel Stats](https://github.com/slackapi/template-triage-bot)
+
+This repository implements a 'triage bot' that can help you analyze messages in a public channel to make sure requests are being looked at and resolved
+
+- **Language**: JavaScript
+- **Features used**: Shortcuts, Modals, App Home, Events
+- **URL**: [https://github.com/slackapi/template-triage-bot](https://github.com/slackapi/template-triage-bot)
+
+---
+
 ### [Incident Management](https://github.com/slackapi/template-incident-management)
 
 An example of how you can manage incidents within Slack
